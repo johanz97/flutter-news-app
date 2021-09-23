@@ -4,6 +4,8 @@ import 'package:news_provider/pages/tab2_page.dart';
 import 'package:provider/provider.dart';
 
 class TabsPage extends StatelessWidget {
+  const TabsPage() : super(key: null);
+
   @override
   Widget build(BuildContext context) {
     return ChangeNotifierProvider(
@@ -40,7 +42,7 @@ class _Paginas extends StatelessWidget {
       controller: navegacionModel.pageController,
       //physics: const BouncingScrollPhysics(),
       physics: const NeverScrollableScrollPhysics(),
-      children: <Widget>[const Tab1Page(), Tab2Page()],
+      children: const <Widget>[Tab1Page(), Tab2Page()],
     );
   }
 }

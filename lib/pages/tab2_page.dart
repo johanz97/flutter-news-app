@@ -6,6 +6,8 @@ import 'package:news_provider/widgets/lista_noticias.dart';
 import 'package:provider/provider.dart';
 
 class Tab2Page extends StatelessWidget {
+  const Tab2Page() : super(key: null);
+
   @override
   Widget build(BuildContext context) {
     final newsService = Provider.of<NewsService>(context);
