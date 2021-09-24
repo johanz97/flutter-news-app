@@ -18,9 +18,10 @@ A mobile application created with Flutter using provider as status manager and A
   <li type="circle"><h3>Android</h3></li>
 </ul>
 
-![Screenshot_20210924-142451](https://user-images.githubusercontent.com/25967495/134729627-f3c038be-e7af-4414-9d15-a2258f8c4c22.jpg)
-
-![Screenshot_20210924-142503](https://user-images.githubusercontent.com/25967495/134729636-68e70798-5f24-439a-82b5-0c347160af8a.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/25967495/134729627-f3c038be-e7af-4414-9d15-a2258f8c4c22.jpg" width="250" height="500">
+<img src="https://user-images.githubusercontent.com/25967495/134729636-68e70798-5f24-439a-82b5-0c347160af8a.jpg" width="250" height="500">
+</p>
 
 <h2>Get packages</h2>
 <ul>
